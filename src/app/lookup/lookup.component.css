@@ -1,0 +1,25 @@
+#txtVIN {
+    width:300px;
+    background-color:#ccc;
+}
+
+#txtResult {
+    width:100%;
+}
+
+.vehicleInfo {
+    list-style: none;
+    margin-top:10px;
+    padding: 0;
+}
+
+.flex-container{
+    display: flex;
+    border: solid 1px #CCC;
+    border-radius: 10px;
+    padding-left: 2px;
+}
+
+.flex-container div{
+    margin: 10px;
+}
